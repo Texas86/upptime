@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 85,
-    "timeDay": 68,
-    "timeWeek": 129,
-    "timeMonth": 87,
+    "timeDay": 69,
+    "timeWeek": 124,
+    "timeMonth": 86,
     "timeYear": 85,
     "dailyMinutesDown": {}
   },
@@ -24,18 +24,16 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 208,
-    "timeDay": 229,
-    "timeWeek": 228,
-    "timeMonth": 208,
-    "timeYear": 208,
-    "dailyMinutesDown": {
-      "2022-03-01": 5
-    }
+    "time": 210,
+    "timeDay": 263,
+    "timeWeek": 241,
+    "timeMonth": 213,
+    "timeYear": 210,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hacker News",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 334,
-    "timeDay": 336,
-    "timeWeek": 326,
-    "timeMonth": 336,
-    "timeYear": 334,
+    "time": 335,
+    "timeDay": 375,
+    "timeWeek": 354,
+    "timeMonth": 342,
+    "timeYear": 335,
     "dailyMinutesDown": {}
   },
   {
